@@ -6,7 +6,7 @@ use App\Post;
 use App\User;
 use Illuminate\Auth\Access\HandlesAuthorization;
 
-class PostPolicy
+class PostPolicy 
 {
     use HandlesAuthorization;
 

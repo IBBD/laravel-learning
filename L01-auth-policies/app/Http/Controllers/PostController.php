@@ -7,7 +7,8 @@ use Auth;
 use Gate;
 use Illuminate\Http\Request;
 
-class PostController extends Controller {
+class PostController extends Controller 
+{
 
     /*
      * Gate门面在laravel5.1里面是默认没有
