@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>cors</title>
+    </head>
+    <body>
+        <script>
+        var url = 'http://localhost:8000/cors';
+        var xhr = new XMLHttpRequest();
+        // xhr.withCredentials = true;
+        xhr.open('get', url, true);
+        // xhr.setRequestHeader('X-Custom-Header', 'X-Custom-Header-Value');
+        xhr.send();
+        </script>
+    </body>
+</html>
