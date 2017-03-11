@@ -6,8 +6,8 @@
 同源策略是一种策略、约定，所有的浏览器都实现了这个约定，它影响了非同源的数据数据共享。
 
 详情可以参考以下链接
-- [百度百科-同源策略](./public/同源策略_百度百科.pdf)
-- [浏览器同源政策及其规避方法](./public/浏览器同源政策及其规避方法 - 阮一峰的网络日志.pdf)
+- [百度百科-同源策略](http://baike.baidu.com/link?url=178udx8nY0V5siBWJ_H4jVP4bo8lvuA4kzecEWh4ahgubQbQMBf7ECLHmnaVhq_5gmBMLL8ovbIW9DDqZF6WRNCkYNZG38JrPLPBagAGOQc93dVJzfm_YTY2gLBNaUr7)
+- [浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
 
 
 ## 跨域资源共享（Cross-origin resource sharing）
@@ -15,7 +15,7 @@
 由于互联网的高速发展，导致了web的应用架构极速复杂化，随之出现了跨域资源共享问题。
 
 详情可以参考以下链接
-- [跨域资源共享 CORS 详解](./public/跨域资源共享 CORS 详解 - 阮一峰的网络日志.pdf)
+- [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 
 ## 实验演示
 
